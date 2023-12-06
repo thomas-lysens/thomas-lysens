@@ -1,10 +1,3 @@
-db      db    db .d8888. .d8888. d88888b  .o88b. 
-88      `8b  d8' 88'  YP 88'  YP 88'     d8P  Y8 
-88       `8bd8'  `8bo.   `8bo.   88ooooo 8P      
-88         88      `Y8b.   `Y8b. 88~~~~~ 8b      
-88booo.    88    db   8D db   8D 88.     Y8b  d8 
-Y88888P    YP    `8888Y' `8888Y' Y88888P  `Y88P' 
-                                                 
 # Welcome to my GitHub!
 
 More will be added soon!
