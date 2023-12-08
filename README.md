@@ -6,8 +6,8 @@
                                       ███████╗ ██║   ███████║███████║███████╗╚██████╗
                                       ╚══════╝ ╚═╝   ╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
-<h1 style="border-bottom:none;text-align:center;">Welcome to my GitHub!</h1>
-<div style="text-align: center;">
+<h1 align="center">Welcome to my GitHub!</h1>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
@@ -23,4 +23,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 </div>
 <hr>
-<p style="text-align:center;">More is coming soon...</p>
+<p align="center;">More is coming soon...</p>
