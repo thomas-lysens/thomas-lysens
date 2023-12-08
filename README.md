@@ -1,15 +1,11 @@
-<div>
-  <pre>
-    <code>
+```bash
                                   ██╗    ██╗   ██╗ ███████╗███████╗███████╗ ██████╗
                                   ██║    ╚██╗ ██╔╝ ██╔════╝██╔════╝██╔════╝██╔════╝
                                   ██║     ╚████╔╝  ███████╗███████╗█████╗  ██║    
                                   ██║      ╚██╔╝   ╚════██║╚════██║██╔══╝  ██║     
                                   ███████╗  ██║    ███████║███████║███████╗╚██████╗
                                   ╚══════╝  ╚═╝    ╚══════╝╚══════╝╚══════╝ ╚═════╝
-      </code>
-  </pre>
-</div>
+```
 <h1 align="center">Welcome to my GitHub!</h1>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
