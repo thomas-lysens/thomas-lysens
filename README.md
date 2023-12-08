@@ -23,4 +23,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 </div>
 <hr>
-<p align="center;">More is coming soon...</p>
+<p align="center">More is coming soon...</p>
