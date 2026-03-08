@@ -1,11 +1,3 @@
-```bash
-                                  ██╗    ██╗   ██╗ ███████╗███████╗███████╗ ██████╗
-                                  ██║    ╚██╗ ██╔╝ ██╔════╝██╔════╝██╔════╝██╔════╝
-                                  ██║     ╚████╔╝  ███████╗███████╗█████╗  ██║    
-                                  ██║      ╚██╔╝   ╚════██║╚════██║██╔══╝  ██║     
-                                  ███████╗  ██║    ███████║███████║███████╗╚██████╗
-                                  ╚══════╝  ╚═╝    ╚══════╝╚══════╝╚══════╝ ╚═════╝
-```
 <h1 align="center">Welcome to my GitHub!</h1>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -25,5 +17,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 </div>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-lysens&show_icons=true&locale=en" alt="thomas-lysens"/></p>
 <p align="center">More is coming soon...</p>
